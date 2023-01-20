@@ -2,7 +2,7 @@
 
 * {
   color: #333447;
-  font-family: 'Roboto', Arial, sans-serif;
+  font-family: "Roboto", Arial, sans-serif;
   line-height: 1.5;
   margin: 0;
   padding: 0;
@@ -19,12 +19,13 @@
   display: flex;
   background-color: #f2f2f2;
   justify-content: space-between;
+  padding: 0.2rem 0;
 }
 
 .top-nav__email {
   background: #cb2027;
   color: #fff;
-  padding: .5rem;
+  padding: 0.5rem;
 }
 
 .top-nav__link {
@@ -33,7 +34,7 @@
 
 .top-nav__icon {
   font-size: 2.5rem;
-  padding: 0 .5rem;
+  padding: 0.5rem;
 }
 
 .top-nav__icon:hover {
@@ -53,5 +54,5 @@
 }
 
 .subheading {
-  padding: .5rem 0;
+  padding: 0.5rem 0;
 }
